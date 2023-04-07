@@ -1,5 +1,5 @@
 # tutoJSL
 
--Une première ligne
--Deuxième ligne
--troisième ligne web
+- Une première ligne
+- Deuxième ligne
+- Troisième ligne web
